@@ -1,25 +1,36 @@
-# 🚀 Sachin Singh  
-### ⚡ Full Stack Developer | React • Backend • System Design  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Sachin%20Singh&fontSize=55&color=0:00F7FF,100:6C63FF&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;React+%7C+Backend+%7C+DSA;Clean+Code+Matters;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Backend+%7C+DSA;Building+Scalable+Apps;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-0b7eaa40-0e8c-4a5b-b5c5-6e4c0c2e0e72.gif" width="100%" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧠 About Me  
 
-- 💡 Full Stack Developer focused on real-world applications  
-- ⚡ Strong in React, Backend & Databases  
-- 🧠 Love solving DSA & system design problems  
-- 🚀 Always learning and building  
+- Full Stack Developer  
+- React + Backend Specialist  
+- Strong in DSA & System Design  
+- Building real-world scalable applications  
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,mysql,firebase,supabase,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,python,cpp,java,mysql,firebase,supabase,git,github,vscode,figma" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-6c6f0c64-6e64-4d8d-bc1f-6f90c0f5fcb0.gif" width="100%" />
 </p>
 
 ---
@@ -27,21 +38,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin2930&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin2930&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin2930&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin2930&theme=radical&hide_border=true" height="170"/>
 </p>
 
----
-
-## 🧠 Coding Profiles  
-
 <p align="center">
-  <a href="https://leetcode.com/u/Sachin2930/">
-    <img src="https://leetcard.jacoblin.cool/Sachin2930?theme=dark&font=Karma&ext=contest" width="260"/>
-  </a>
-  <a href="https://codeforces.com/profile/Sachin2936">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sachin2936&theme=dark" width="260"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin2930&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -49,34 +51,47 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin2930&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin2930&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin2930&repo=YOUR_PROJECT_1&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin2930&repo=YOUR_PROJECT_2&theme=radical" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🧠 Coding Profiles  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sachin2930?theme=dark&font=Karma" />
+</p>
+
+---
+
+## 🌐 Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-singh-29360423ss/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:harshsaini94788@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👀 Profile Views  
+## 🧠 Mindset  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sachin2930&color=blue" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00F7FF&height=150&section=footer"/>
 </p>
